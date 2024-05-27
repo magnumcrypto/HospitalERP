@@ -1,0 +1,14 @@
+.container-fluid {
+    height: 100vh;
+    /* Asegura que ocupe toda la vista */
+    background-image: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y5NDQtYmItMTYtam9iNTk4LmpwZw.jpg');
+    background-size: cover;
+    /* Asegura que la imagen cubra todo el contenedor */
+    background-position: center;
+    /* Centra la imagen */
+    background-repeat: no-repeat;
+    /* Evita que la imagen se repita */
+    position: relative;
+    /* Asegura que los hijos absolutos se posicionen correctamente */
+    padding-top: 10px;
+}
