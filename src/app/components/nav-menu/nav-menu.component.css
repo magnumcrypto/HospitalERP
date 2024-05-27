@@ -1,0 +1,23 @@
+.list-group {
+    width: 15%;
+    margin-top: 2%;
+    border-radius: 12px;
+}
+
+.list-group-item {
+    background-color: rgba(255, 255, 255, 0.208) !important;
+    /* Darle efecto borroso suave como un cristal -> blur */
+    backdrop-filter: blur(6px);
+}
+
+.active {
+    background-color: rgba(144, 183, 255, 0.308) !important;
+}
+
+a {
+    color: black !important;
+}
+
+a:hover {
+    background-color: rgba(188, 211, 253, 0.211) !important;
+}
