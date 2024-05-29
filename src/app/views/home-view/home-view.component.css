@@ -1,0 +1,42 @@
+.cont-img1 {
+    padding: 0;
+}
+
+.cont-img2 {
+    padding: 0;
+}
+
+img {
+    border-radius: 12px;
+    width: 100%;
+    max-height: 350px;
+}
+
+.without-img {
+    padding-left: 5%;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.208) !important;
+    /* Darle efecto borroso suave como un cristal -> blur */
+    backdrop-filter: blur(6px);
+}
+
+li,
+h3 {
+    color: black !important;
+}
+
+li {
+    list-style: none;
+}
+
+.bg-image {
+    border-radius: 12px;
+}
+
+ul {
+    line-height: 2.2;
+}
+
+h3 {
+    margin-top: 25px;
+}

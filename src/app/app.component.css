@@ -1,5 +1,5 @@
 .container-fluid {
-    height: 100vh;
+    min-height: 100vh;
     /* Asegura que ocupe toda la vista */
     background-image: url('https://img.freepik.com/fotos-premium/fondo-abstracto-verde-pastel-suaves-ondas-dinamicas_605681-228.jpg');
     background-size: cover;
